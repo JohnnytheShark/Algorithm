@@ -1,3 +1,4 @@
+//Challenge Fibonnaci Sequence that returns the sum of all even numbers under a given number
 function fiboEvenSum(n) {
   let numbers = [];
   let startNumber = 0;
